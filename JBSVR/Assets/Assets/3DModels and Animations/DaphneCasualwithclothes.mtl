@@ -1,0 +1,21 @@
+# Exported from 3D Builder
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd middleage_darkskinned_female_diffuse.png
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd asym_black_skirt.jpg
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd Wool_02_UV_H_CM_1.jpg
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd Hight_heal_Library.png
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd 3DModel_LowPoly.jpg
